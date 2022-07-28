@@ -1,0 +1,26 @@
+body{
+    padding-left: 600px;
+    padding-right: 600px;
+}
+.centralizar{
+    text-align: center;
+}
+.corAzulClaro{
+    color:steelblue;
+}
+.SemDecoration{
+    text-decoration: none;
+}
+hr{
+height: 2px;
+background-color: steelblue;
+}
+h1{
+    color: dimgray;
+}
+h2{
+    color: dimgray;
+}
+h3{
+    border-bottom: 2px solid steelblue;
+}
